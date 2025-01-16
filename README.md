@@ -18,7 +18,7 @@ Learn more:
 - [Serenity BDD reports for this project](https://serenity-js.github.io/serenity-js-cucumber-playwright-template/)
 - [Serenity/JS website, tutorials, and API docs](https://serenity-js.org/)
 
-## Usage
+## Usages
 
 This repository is a GitHub template. You can use it to [create a new GitHub repository](https://help.github.com/en/articles/creating-a-repository-from-a-template), [clone it to your computer](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
